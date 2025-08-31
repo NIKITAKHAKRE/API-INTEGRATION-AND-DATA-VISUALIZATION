@@ -27,6 +27,6 @@ Skills Required:
 4. Data processing and cleaning
 5. Visualization dashboard development using Dash or Plotly
 
-
+"OUTPUT":![Image](https://github.com/user-attachments/assets/eb852bc9-fed2-40fe-9018-d6e23b1fc134)
 
 
